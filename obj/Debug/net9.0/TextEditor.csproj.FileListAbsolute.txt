@@ -1,0 +1,14 @@
+C:\Users\djsoa\dev\dotnet\TextEditor\bin\Debug\net9.0\TextEditor.exe
+C:\Users\djsoa\dev\dotnet\TextEditor\bin\Debug\net9.0\TextEditor.deps.json
+C:\Users\djsoa\dev\dotnet\TextEditor\bin\Debug\net9.0\TextEditor.runtimeconfig.json
+C:\Users\djsoa\dev\dotnet\TextEditor\bin\Debug\net9.0\TextEditor.dll
+C:\Users\djsoa\dev\dotnet\TextEditor\bin\Debug\net9.0\TextEditor.pdb
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfoInputs.cache
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.AssemblyInfo.cs
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.dll
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\refint\TextEditor.dll
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.pdb
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll
