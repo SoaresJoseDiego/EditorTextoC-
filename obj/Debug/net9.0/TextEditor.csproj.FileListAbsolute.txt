@@ -12,3 +12,4 @@ C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\refint\TextEditor.dll
 C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.pdb
 C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.genruntimeconfig.cache
 C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\ref\TextEditor.dll
+C:\Users\djsoa\dev\dotnet\TextEditor\obj\Debug\net9.0\TextEditor.sourcelink.json
